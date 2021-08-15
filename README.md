@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git E GitHub
+ Primeiro repositório do curso de **Git E GitHub**, disponível graturitamente no canal do *Youtube*.
 
  Repositório criado durante uma ula ao vivo!
  
